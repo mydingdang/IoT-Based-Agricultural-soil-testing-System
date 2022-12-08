@@ -34,11 +34,12 @@
             In cloud Application layer, we deploy a web application based on <a class="text-yellow-500 font-bold">Node.js</a> & <a class="text-yellow-500 font-bold">Vue</a>. We receive data from bottom layer based on <a class="text-yellow-500 font-bold">AWS RESTful APIs</a>, and store them in <a class="text-yellow-500 font-bold">MongoDB</a>.
         </p>
 
-        <!-- <footer class="mt-24 flex justify-center items-center">
-            <a href="mailto://haojenma@gmail.com?subject=Planet Tab Feedback" class="bg-blue-500 font-semibold px-3 py-2 rounded-lg flex items-center justify-center">
+        <footer class="mt-24 flex justify-center items-center">
+            <a href="mailto://luo.yuqiu@ufl.edu?subject=Planet Tab Feedback" class="bg-blue-500 font-semibold px-3 py-2 rounded-lg flex items-center justify-center">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm17 4.238l-7.928 7.1L4 7.216V19h16V7.238zM4.511 5l7.55 6.662L19.502 5H4.511z" fill="rgba(255,255,255,1)"/></svg>
                 <span class="ml-1">Feedback</span>
             </a>
-        </footer> -->
+        </footer>
+
     </main>
 </template>

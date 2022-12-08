@@ -29,9 +29,8 @@
 
 
 <script>
-import { thisExpression } from '@babel/types'
 import Axios from 'axios'
-import { onBeforeRouteLeave } from 'vue-router'
+
 // 给每个 todo 对象一个唯一的 id
 let id = 0
 export default {
